@@ -1,3 +1,5 @@
+# typeScript & React 로 만들어 보는 첫번째 TODO LIST
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
